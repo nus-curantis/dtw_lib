@@ -44,3 +44,5 @@ D_matrix = conversion.matrix(D)
 2. Default relax parameter is set to 0
 
 3. dtw_lib is the python version of this code
+
+4. Python version: 3.6.8
